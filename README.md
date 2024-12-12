@@ -1,3 +1,3 @@
 # documentation
 
-## [Coldbox](coldbox/Coldbox.md)
+## [* Coldbox](coldbox/Coldbox.md)
